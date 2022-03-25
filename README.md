@@ -8,7 +8,7 @@
 
 :computer: I'm Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from São Paulo - SP.
 
 :books: I’m currently learning everything.
 
