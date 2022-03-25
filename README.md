@@ -2,7 +2,7 @@
 
  
 
-## I'm Diego Carvalho!
+### I'm Diego Carvalho!
 
  
 
@@ -16,9 +16,13 @@
 
  
 
-## About me
+### About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/d1egodev)
+##I'm currently learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          
 
 - Thanks for visiting.
 
