@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from São Paulo - SP.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning Javascript.
 
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
